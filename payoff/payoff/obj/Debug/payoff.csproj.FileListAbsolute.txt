@@ -1,0 +1,12 @@
+c:\users\mohamed abu el_magd\documents\visual studio 2012\Projects\payoff\payoff\bin\Debug\payoff.exe.config
+c:\users\mohamed abu el_magd\documents\visual studio 2012\Projects\payoff\payoff\obj\Debug\payoff.csprojResolveAssemblyReference.cache
+c:\users\mohamed abu el_magd\documents\visual studio 2012\Projects\payoff\payoff\obj\Debug\payoff.Form1.resources
+c:\users\mohamed abu el_magd\documents\visual studio 2012\Projects\payoff\payoff\obj\Debug\payoff.Properties.Resources.resources
+c:\users\mohamed abu el_magd\documents\visual studio 2012\Projects\payoff\payoff\obj\Debug\payoff.csproj.GenerateResource.Cache
+c:\users\mohamed abu el_magd\documents\visual studio 2012\Projects\payoff\payoff\bin\Debug\payoff.exe
+c:\users\mohamed abu el_magd\documents\visual studio 2012\Projects\payoff\payoff\bin\Debug\payoff.pdb
+c:\users\mohamed abu el_magd\documents\visual studio 2012\Projects\payoff\payoff\obj\Debug\payoff.exe
+c:\users\mohamed abu el_magd\documents\visual studio 2012\Projects\payoff\payoff\obj\Debug\payoff.pdb
+E:\study\2-2\M\payoff\payoff\bin\Debug\payoff.exe.config
+E:\study\2-2\M\payoff\payoff\obj\Debug\payoff.exe
+E:\study\2-2\M\payoff\payoff\obj\Debug\payoff.pdb
