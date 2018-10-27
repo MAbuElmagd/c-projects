@@ -1,0 +1,19 @@
+C:\Users\HAKAI\source\repos\Histogram equalization\Histogram equalization\bin\Debug\Histogram equalization.exe.config
+C:\Users\HAKAI\source\repos\Histogram equalization\Histogram equalization\bin\Debug\Histogram equalization.exe
+C:\Users\HAKAI\source\repos\Histogram equalization\Histogram equalization\bin\Debug\Histogram equalization.pdb
+C:\Users\HAKAI\source\repos\Histogram equalization\Histogram equalization\obj\Debug\Histogram equalization.csprojResolveAssemblyReference.cache
+C:\Users\HAKAI\source\repos\Histogram equalization\Histogram equalization\obj\Debug\Histogram equalization.csproj.CoreCompileInputs.cache
+C:\Users\HAKAI\source\repos\Histogram equalization\Histogram equalization\obj\Debug\Histogram equalization.exe
+C:\Users\HAKAI\source\repos\Histogram equalization\Histogram equalization\obj\Debug\Histogram equalization.pdb
+E:\study\2-2\CG\Histogram equalization\Histogram equalization\bin\Debug\Histogram equalization.exe.config
+E:\study\2-2\CG\Histogram equalization\Histogram equalization\obj\Debug\Histogram equalization.exe
+E:\study\2-2\CG\Histogram equalization\Histogram equalization\obj\Debug\Histogram equalization.pdb
+E:\study\2-2\CG\Histogram equalization\Histogram equalization\obj\Debug\Histogram equalization.csprojResolveAssemblyReference.cache
+E:\study\2-2\CG\Histogram equalization\Histogram equalization\bin\Debug\Histogram equalization.exe
+E:\study\2-2\CG\Histogram equalization\Histogram equalization\bin\Debug\Histogram equalization.pdb
+E:\study\2-2\CG\Histogram equalization\Histogram equalization\bin\Debug\mscorlib.dll
+E:\study\2-2\CG\Histogram equalization\Histogram equalization\bin\Debug\normidna.nlp
+E:\study\2-2\CG\Histogram equalization\Histogram equalization\bin\Debug\normnfc.nlp
+E:\study\2-2\CG\Histogram equalization\Histogram equalization\bin\Debug\normnfd.nlp
+E:\study\2-2\CG\Histogram equalization\Histogram equalization\bin\Debug\normnfkc.nlp
+E:\study\2-2\CG\Histogram equalization\Histogram equalization\bin\Debug\normnfkd.nlp
