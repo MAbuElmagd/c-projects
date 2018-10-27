@@ -1,0 +1,9 @@
+C:\Users\Dr-Mohamed\Documents\Visual Studio 2008\Projects\Examination System\Examination System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dr-Mohamed\Documents\Visual Studio 2008\Projects\Examination System\Examination System\bin\Debug\Examination System.exe
+C:\Users\Dr-Mohamed\Documents\Visual Studio 2008\Projects\Examination System\Examination System\bin\Debug\Examination System.pdb
+C:\Users\Dr-Mohamed\Documents\Visual Studio 2008\Projects\Examination System\Examination System\obj\Debug\Examination System.exe
+C:\Users\Dr-Mohamed\Documents\Visual Studio 2008\Projects\Examination System\Examination System\obj\Debug\Examination System.pdb
+C:\Users\mamaa\Desktop\Examination System\Examination System\Examination System\obj\Debug\Examination System.csprojAssemblyReference.cache
+C:\Users\mamaa\Desktop\Examination System\Examination System\Examination System\obj\Debug\Examination System.csproj.CoreCompileInputs.cache
+C:\Users\mamaa\Desktop\Examination System\Examination System\Examination System\obj\Debug\Examination System.exe
+C:\Users\mamaa\Desktop\Examination System\Examination System\Examination System\obj\Debug\Examination System.pdb
