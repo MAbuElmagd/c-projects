@@ -1,0 +1,9 @@
+c:\users\mamaa\onedrive\documents\visual studio 2015\Projects\ConsoleApplication40\ConsoleApplication40\bin\Debug\ConsoleApplication40.exe.config
+c:\users\mamaa\onedrive\documents\visual studio 2015\Projects\ConsoleApplication40\ConsoleApplication40\bin\Debug\ConsoleApplication40.exe
+c:\users\mamaa\onedrive\documents\visual studio 2015\Projects\ConsoleApplication40\ConsoleApplication40\bin\Debug\ConsoleApplication40.pdb
+c:\users\mamaa\onedrive\documents\visual studio 2015\Projects\ConsoleApplication40\ConsoleApplication40\obj\Debug\ConsoleApplication40.csprojResolveAssemblyReference.cache
+c:\users\mamaa\onedrive\documents\visual studio 2015\Projects\ConsoleApplication40\ConsoleApplication40\obj\Debug\ConsoleApplication40.exe
+c:\users\mamaa\onedrive\documents\visual studio 2015\Projects\ConsoleApplication40\ConsoleApplication40\obj\Debug\ConsoleApplication40.pdb
+F:\my prog\Visual Studio 2015\Projects\ConsoleApplication40\ConsoleApplication40\bin\Debug\ConsoleApplication40.exe.config
+F:\my prog\Visual Studio 2015\Projects\ConsoleApplication40\ConsoleApplication40\obj\Debug\ConsoleApplication40.exe
+F:\my prog\Visual Studio 2015\Projects\ConsoleApplication40\ConsoleApplication40\obj\Debug\ConsoleApplication40.pdb
